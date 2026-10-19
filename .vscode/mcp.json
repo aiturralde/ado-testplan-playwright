@@ -1,0 +1,13 @@
+{
+  "servers": {
+    "azure-devops": {
+      "type": "http",
+      "url": "https://mcp.dev.azure.com/aiturralde",
+      "headers": {
+        "X-MCP-Toolsets": "testplan,wit",
+        "X-MCP-Readonly": "true"
+      }
+    }
+  },
+  "inputs": []
+}
